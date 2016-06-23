@@ -6,7 +6,20 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/qtcreator](https://draculatheme.com/qtcreator).
+#### Install using Git
+
+If you are a git user, you can install the theme and keep up to date by cloning the repo:
+ 
+```
+$ git clone https://github.com/dracula/qtcreator.git ~/.config/QtProject/qtcreator/styles
+```
+
+#### Install manually
+Download using the <a href="https://github.com/dracula/qtcreator/archive/master.zip">GitHub .zip download</a> option and unzip them
+ 		Move the <code>dracula.xml</code> file to <code>~/.config/QtProject/qtcreator/styles</code>
+
+#### Activating theme
+Go to <code>Qt Creator -> Preferences...</code>, click in the <code>Text Editor</code> tab, and select <code>Dracula</code> in the <code>Color Scheme</code>.
 
 ## Team
 

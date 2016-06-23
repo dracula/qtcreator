@@ -2,7 +2,7 @@
 
 > A dark theme for [Qt Creator](http://qt.io/ide).
 
-![Screenshot](http://i.imgur.com/uythJYG.png)
+![Screenshot](screenshot.png)
 
 ## Install
 

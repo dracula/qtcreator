@@ -2,7 +2,7 @@
 
 > A dark theme for [Qt Creator](http://qt.io/ide).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/qtcreator.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 

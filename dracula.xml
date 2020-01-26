@@ -26,6 +26,8 @@
   <style name="Keyword" foreground="#ff79c6" bold="true"/>
   <style name="PrimitiveType" foreground="#7ce4fb" italic="true"/>
   <style name="Operator" foreground="#ffffff"/>
+  <style name="Overloaded Operator" foreground="#ffb86c"/>
+  <style name="Punctuation"/>
   <style name="Preprocessor" foreground="#ff79c6"/>
   <style name="Label" foreground="#ffb86c"/>
   <style name="Comment" foreground="#6272a4" bold="true"/>

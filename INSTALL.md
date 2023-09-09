@@ -13,4 +13,6 @@ Download using the [GitHub .zip download](https://github.com/dracula/qtcreator/a
 #### Activating theme
 
 1.  Move the `dracula.xml` file to `~/.config/QtProject/qtcreator/styles`.
-2.  Go to `Qt Creator -> Preferences...`, click in the `Text Editor` tab, and select `Dracula` in the `Color Scheme`.
+2.  Move the `drakula.creatortheme` file to `~/.config/QtProject/qtcreator/themes`.
+3.  Go to `Qt Creator -> Preferences...`, click in the `Environment` tab, and select `Drakula` in the `Theme`. Then click `Restart Now`.
+4.  Go to `Qt Creator -> Preferences...`, click in the `Text Editor` tab, and select `Dracula` in the `Color Scheme`.

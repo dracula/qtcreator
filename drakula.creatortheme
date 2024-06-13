@@ -1,4 +1,5 @@
 [General]
+Includes=drakula.figmatokens
 ThemeName=Drakula
 PreferredStyles=Fusion
 DefaultTextEditorColorScheme=dracula.xml

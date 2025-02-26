@@ -1,0 +1,16 @@
+{
+    "Id" : "dracula",
+    "Name" : "Dracula",
+    "Version" : "${IDE_VERSION}",
+    "CompatVersion" : "${IDE_VERSION_COMPAT}",
+    "Vendor" : "Cristian Adam",
+    "VendorId" : "cristianadam",
+    "Copyright" : "(C) 2016 Dracula Theme, Cristian Adam, ${IDE_COPYRIGHT}",
+    "License" : "MIT",
+    "SoftLoadable" : true,
+    "Description" : "Dark theme for Qt Creator",
+    "LongDescription" : ${LONG_DESCRIPTION},
+    "Url" : "https://github.com/cristianadam/qt-creator-dracula",
+    "DocumentationUrl" : "",
+    ${IDE_PLUGIN_DEPENDENCIES}
+}

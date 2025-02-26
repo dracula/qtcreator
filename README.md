@@ -1,27 +1,29 @@
-# Dracula for [Qt Creator](http://qt.io/ide)
+A [dark theme](https://draculatheme.com) for [Qt Creator](https://www.qt.io/product/development-tools).
 
-> A dark theme for [Qt Creator](http://qt.io/ide).
+![Screenshot](https://raw.githubusercontent.com/cristianadam/qt-creator-dracula/refs/heads/master/qt-creator-dracula.png)
 
-![Screenshot](./screenshot.png)
+# License
 
-## Install
+```
+The MIT License (MIT)
 
-All instructions can be found at [draculatheme.com/qtcreator](https://draculatheme.com/qtcreator).
+Copyright (c) 2016 Dracula Theme
 
-## Team
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/qtcreator/graphs/contributors).
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-| [![Ergenekon Yigit](https://avatars1.githubusercontent.com/u/7110136?v=3&s=70)](https://github.com/ergenekonyigit) |
-| ------------------------------------------------------------------------------------------------------------------ |
-| [Ergenekon Yigit](https://github.com/ergenekonyigit)                                                               |
-
-## Community
-
-- [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
-- [GitHub](https://github.com/dracula/dracula-theme/discussions) - Best for asking questions and discussing issues.
-- [Discord](https://draculatheme.com/discord-invite) - Best for hanging out with the community.
-
-## License
-
-[MIT License](./LICENSE)
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```

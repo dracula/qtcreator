@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>dracula.xml</file>
+        <file>drakula.creatortheme</file>
+        <file>drakula.figmatokens</file>
+    </qresource>
+</RCC>

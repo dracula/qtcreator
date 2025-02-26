@@ -187,6 +187,7 @@ DoubleTabWidget2ndTabActiveTextColor=text
 DoubleTabWidget2ndTabBackgroundColor=selectedBackground
 DoubleTabWidget2ndTabInactiveTextColor=text
 EditorPlaceholderColor=normalBackground
+FancyToolButtonHighlightColor=Token_Accent_Default
 FancyToolBarSeparatorColor=toolBarItemDisabled
 FancyTabBarBackgroundColor=shadowBackground
 FancyTabBarSelectedBackgroundColor=selectedBackground
@@ -328,6 +329,7 @@ VcsBase_FileUnmerged_TextColor=ffff4040
 Bookmarks_TextMarkColor=ff8080ff
 
 TextEditor_SearchResult_ScrollBarColor=ff00c000
+TextEditor_Selection_ScrollBarColor=ff888888
 TextEditor_CurrentLine_ScrollBarColor=ffffffff
 
 ProjectExplorer_TaskError_TextMarkColor=error
@@ -371,6 +373,27 @@ PaletteWindowTextDisabled=textDisabled
 PaletteBaseDisabled=backgroundColorDisabled
 PaletteTextDisabled=textDisabled
 PaletteMid=ffa0a0a0
+
+TerminalForeground=F8F8F2
+TerminalBackground=282A36
+TerminalSelection=44475A
+TerminalFindMatch=F8F8F2
+TerminalAnsi0=21222C
+TerminalAnsi1=FF5555
+TerminalAnsi2=50FA7B
+TerminalAnsi3=F1FA8C
+TerminalAnsi4=BD93F9
+TerminalAnsi5=FF79C6
+TerminalAnsi6=8BE9FD
+TerminalAnsi7=F8F8F2
+TerminalAnsi8=6272A4
+TerminalAnsi9=FF6E6E
+TerminalAnsi10=69FF94
+TerminalAnsi11=FFFFA5
+TerminalAnsi12=D6ACFF
+TerminalAnsi13=FF92DF
+TerminalAnsi14=A4FFFF
+TerminalAnsi15=FFFFFF
 
 [Flags]
 ComboBoxDrawTextShadow=false

@@ -5,9 +5,9 @@
 Token_Basic_Black=ff282A36
 Token_Basic_White=fff8f8f2
 
-Token_Accent_Default=ff6272a4 ; 44475a
-Token_Accent_Muted=ffbd93f9 ; no effect
-Token_Accent_Subtle=ff00ff00 ; no effect
+Token_Accent_Default=ffbd93f9
+Token_Accent_Muted=ff8660c0
+Token_Accent_Subtle=ffa179dc
 
 Token_Background_Default=ff282A36
 Token_Background_Muted=ff282A36
